@@ -1,0 +1,30 @@
+.btn-h3 {
+    color:cadetblue;
+    font-size:30px;
+    background-color:aquamarine;
+    font-weight:bold;
+}
+.btn-h3:hover {
+    color:aquamarine;
+    background-color:cadetblue;
+}
+.note {
+    color:rgb(27, 98, 228);
+    font-size:20px;
+}
+.copyright-footer {
+    bottom:0;
+    color:rgb(255, 255, 255);
+    background-color:rgb(121, 121, 121);
+    text-align:center;
+    width:100%;
+    position:fixed;
+    line-height:3;
+    font-size:20px;
+}
+canvas {
+    border-style:solid;
+    border-radius:20px;
+    border-color:#c680f2;
+    border-width:10px;
+}
